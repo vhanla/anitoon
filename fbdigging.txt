@@ -1,0 +1,13 @@
+Download video from FB
+
+https://scontent.flim5-2.fna.fbcdn.net/v/t42.9040-29/10000000_1167206806721810_5875350596176838656_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InNkIn0%3D&oh=5ada70f76c18692cded15bc39f833219&oe=58EADFCF
+https://scontent.flim5-2.fna.fbcdn.net/
+v/
+t42.9040-29/
+10000000_1167206806721810_5875350596176838656_n.mp4?
+efg=eyJ2ZW5jb2RlX3RhZyI6InNkIn0%3D&oh=5ada70f76c18692cded15bc39f833219&oe=58EADFCF
+
+https://www.facebook.com/medicinacomplementariayalternativa/videos/449684862036294/
+https://m.facebook.com/medicinacomplementariayalternativa/videos/449684862036294/
+
+data-store="&#123;&quot;videoID&quot;:&quot;449684862036294&quot;,&quot;playerFormat&quot;:&quot;inline&quot;,&quot;playerOrigin&quot;:null,&quot;rootID&quot;:449684862036294,&quot;playerSuborigin&quot;:&quot;misc&quot;,&quot;canUseOffline&quot;:null,&quot;playOnClick&quot;:true,&quot;playInFullScreen&quot;:false,&quot;type&quot;:&quot;video&quot;,&quot;src&quot;:&quot;https:\/\/scontent.flim5-2.fna.fbcdn.net\/v\/t42.9040-29\/10000000_1167206806721810_5875350596176838656_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InNkIn0\u00253D&amp;oh=5ada70f76c18692cded15bc39f833219&amp;oe=58EADFCF&quot;,&quot;width&quot;:320,&quot;height&quot;:193,&quot;trackingNodes&quot;:&quot;F&quot;,&quot;downloadResources&quot;:null,&quot;subtitlesSrc&quot;:null,&quot;spherical&quot;:false,&quot;sphericalParams&quot;:null,&quot;animatedGifVideo&quot;:false,&quot;defaultQuality&quot;:null,&quot;availableQualities&quot;:null,&quot;playStartSec&quot;:null,&quot;playEndSec&quot;:null,&quot;playMuted&quot;:null,&quot;disableVideoControls&quot;:false&#125;"

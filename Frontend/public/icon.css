@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  /* IE6-8 compat */
+  src: url("fonts/materialicons-5174f49051c7f7df398c5e17177bac83f7defe25.eot");
+  src: local("Material Icons"),
+    local("MaterialIcons-Regular"),
+    url("fonts/materialicons-f1eb3130547983547fec3c20fc09102bc08cbe1b.woff") format("woff"),
+    url("fonts/materialicons-a768c28a15e2475bb7611a98b7bcd08de024699b.svg#MaterialIcons") format("svg"),
+    url("fonts/materialicons-5174f49051c7f7df398c5e17177bac83f7defe25.eot") format("embedded-opentype"),
+    url("fonts/materialicons-47f3bf936aee7172b447fe16b2f78f1b2f9eb77c.ttf") format("truetype");
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: 'liga';
+}
